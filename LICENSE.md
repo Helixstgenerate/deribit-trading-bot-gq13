@@ -1,4 +1,4 @@
-# 
+# secure deribit trading bot Executor | grid-trading + perpetual-trading offers the most advanced deribit trading bot, with grid-trading and perpetual-trading. Ideal for
 
 
 
